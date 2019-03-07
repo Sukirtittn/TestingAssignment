@@ -2,9 +2,6 @@ package demo.service;
 
 import demo.domain.Order;
 
-/**
- * @author Dhanendra Kumar
- */
 public class OrderService {
 
     private static OrderService instance;

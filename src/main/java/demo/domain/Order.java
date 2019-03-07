@@ -1,8 +1,5 @@
 package demo.domain;
 
-/**
- * @author Dhanendra Kumar
- */
 public class Order {
 
     private int quantity;
